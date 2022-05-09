@@ -1,0 +1,49 @@
+body{
+    font-family: saira;
+    background-color: rgb(249, 245, 245);
+    
+  }
+  div{
+    background-color: #FFBA00;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: #fff;
+    box-shadow: 1px 1px 1px 1px dodgerblue;
+  }
+  input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+  }
+  button{
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    transition: all 0.4s ease-in-out;
+    
+  }
+  button:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+  }
+
+  .main-link {
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    }
+    
+  
+  
+  
+  
