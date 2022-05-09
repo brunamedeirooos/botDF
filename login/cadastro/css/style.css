@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #fff;
+    color: black;
+    font-family: saira;
+  }
+  
+  span {
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .titulo1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 25px;
+    color: #fff;
+  }
+  
+  form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #FFBA00;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px dodgerblue;
+  }
+  
+  .label-float {
+    position: relative;
+    padding-top: 13px;
+  }
+  
+  .inputUser {
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+    cursor: pointer;
+  }
+  
+  .titulo3 {
+    font-size: 15px;
+    margin: 10px;
+    margin-top: 10px;
+  }
+  
+  .radio-confirme {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    margin-top: 10px;
+  }
+  
+  #senioridade {
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    margin: 10px;
+    border: none;
+  
+    font-size: 16px;
+  }
+  
+  label {
+    margin: 10px;
+  }
+  
+  .titulo4 {
+    font-size: 15px;
+    margin: 10px;
+    margin-top: 10px;
+  }
+  
+  .tecnologia {
+    font-size: 15px;
+  }
+  
+  button {
+    color:#fff;
+    margin-top: 15px;
+    width: 100%;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    transition: all 0.4s ease-in-out;
+    padding: 10px;
+  }
+  
+  button:hover {
+    background-color:deepskyblue;
+  }
+  
